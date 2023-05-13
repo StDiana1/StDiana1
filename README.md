@@ -22,6 +22,13 @@ I love quality products and video games. Finding bugs is my pleasure.
 ### Testing Documentation
 [Checklists and Test-Cases](https://docs.google.com/spreadsheets/d/1RnbN1SvPW7fbCxvF1cSpxICB00EnSXmUDtLGIE2wIbo/edit?usp=sharing)
 
+[Bug-Reports](https://dianast.youtrack.cloud/issues?q=%D0%A1%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5:%20%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B0)
+
+[Postman Collections](https://drive.google.com/drive/folders/1a3Q6UrSoMnEtjvRw5CqfpztXHTPQm3dY?usp=sharing)
+
+[SQL Queries and BASH](https://docs.google.com/document/d/1mdqjqs6piHwg8IRIo78ehnsRAs1UV6MTa4OX9JpnYHc/edit?usp=sharing)
+
+
 ### Follow me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/DianaST_00)
 [![Header](https://img.shields.io/badge/Habr-090909?style=for-the-badge&logo=habr&logoColor=31a5db)](https://career.habr.com/diana_st)
