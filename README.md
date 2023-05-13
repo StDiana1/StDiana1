@@ -19,7 +19,8 @@ I love quality products and video games. Finding bugs is my pleasure.
 ![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 
-Artefacts
+### Testing Documentation
+[Checklists and Test-Cases](https://docs.google.com/spreadsheets/d/1RnbN1SvPW7fbCxvF1cSpxICB00EnSXmUDtLGIE2wIbo/edit?usp=sharing)
 
 ### Follow me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/DianaST_00)
