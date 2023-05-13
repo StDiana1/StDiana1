@@ -1,7 +1,8 @@
 [![Header](https://github.com/StDiana1/StDiana1/blob/main/assets/Name.png)](https://github.com/StDiana1/StDiana1)
 
 ## I'm a QA Engeneer
-## I love quality products and video games. Finding bugs is my pleasure.
+I love quality products and video games. Finding bugs is my pleasure.
+
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/1KOhlECo21oRs3moh6xy2kcz671e5PYMJCZRJyGL-QBE/edit?usp=sharing)
 
@@ -20,4 +21,6 @@
 
 Artefacts
 
-Follow me
+### Follow me
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/DianaST_00)
+[![Header](https://img.shields.io/badge/Habr-090909?style=for-the-badge&logo=habr&logoColor=31a5db)](https://career.habr.com/diana_st)
