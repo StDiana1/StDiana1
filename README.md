@@ -4,7 +4,7 @@
 I love quality products and video games. Finding bugs is my pleasure.
 
 ## My CV
-[Link to my CV](https://docs.google.com/document/d/1KOhlECo21oRs3moh6xy2kcz671e5PYMJCZRJyGL-QBE/edit?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/19M1znEKvghP5rt4WWXvm0fHRPeipW9eH/view?usp=sharing)
 
 ### Languages and Tools
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
